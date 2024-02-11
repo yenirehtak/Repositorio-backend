@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Katherine Castro",
+        "profession": "T.S.U en Informática / Aspirante a Web Dev",
+        "photo": "https://i.ibb.co/dgFX4qK/Default-generate-pixar-style-icon-of-a-slightly-chubby-light-b-0.jpg",
+        "about_me": "Soy una entusiasta de la tecnología. ",
+        "skills" : [
+            "Java",
+            "MySQL",
+            "HTML",
+            "C++",
+            "Javascript"
+        
+        ]
+    }
+
+]

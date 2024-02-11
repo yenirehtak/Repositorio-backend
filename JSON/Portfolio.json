@@ -1,0 +1,26 @@
+[
+{
+    "name": "Proyecto 1: Consultorio",
+    "descripcion": "Utilice JAVA para crear una aplicación que maneje el registro medico en un consultorio",
+    "image":"https://i.ibb.co/nf55xLn/sistema-registro.png",
+    "link":"https://www.dropbox.com/scl/fo/1qbqhvekva7d31k58bwgb/h?rlkey=r41fn0izwar17n0vcqu8b7jv2&dl=0"
+},
+{
+    "name": "Proyecto 2: Aplicacion Oansa",
+    "descripcion": "Utilice JAVA para crear una aplicación para el registro y gestión de Oansistas",
+    "image":"https://i.ibb.co/tK3DM1N/oansa.png",
+    "link":"https://www.dropbox.com/scl/fo/4nqkxocmholmj6xn1sif9/h?rlkey=5eheixbk3nt6u548xgwyvw9w7&dl=0"
+},
+{
+    "name": "Proyecto 3: MVC en Java",
+    "descripcion": "Utilice Java y el patrón MVC para crear un programa de gestión de mascotas",
+    "image": "https://i.ibb.co/3RT4q8y/pngwing-com.png",
+    "link": "https://www.dropbox.com/scl/fo/1ys3kj9y3k2ii5sfaqwc4/h?rlkey=lvb9mh8hlgqrmba0zxcqfc1w5&dl=0"
+},
+{
+    "name":"Proyecto 4: Archivos en C#",
+    "descripcion": "Utilice C# para crear un programa que lee y modifica un archivo de texto",
+    "image": "https://i.ibb.co/fN0fGGF/csharp-200x200.png",
+    "link": "https://github.com/yenirehtak/clase04"
+}
+]
